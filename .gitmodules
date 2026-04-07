@@ -1,6 +1,3 @@
-[submodule "src/userplugins/randomGary"]
-	path = src/userplugins/randomGary
-	url = https://github.com/Zach11111/randomGary.git
 [submodule "src/userplugins/venfetch"]
 	path = src/userplugins/venfetch
 	url = https://git.nin0.dev/userplugins/venfetch.git
