@@ -1,15 +1,9 @@
-[submodule "src/userplugins/venfetch"]
-	path = src/userplugins/venfetch
-	url = https://git.nin0.dev/userplugins/venfetch.git
 [submodule "src/userplugins/vencord-antirickroll"]
 	path = src/userplugins/vencord-antirickroll
 	url = https://github.com/ryawaa/vencord-antirickroll
 [submodule "src/userplugins/vencord-steamStatusSync"]
 	path = src/userplugins/vencord-steamStatusSync
 	url = https://github.com/hauntii/vencord-steamStatusSync
-[submodule "src/userplugins/betterForwardMeta"]
-	path = src/userplugins/betterForwardMeta
-	url = https://git.nin0.dev/userplugins/betterForwardMeta.git
 [submodule "src/userplugins/MediaStatus"]
 	path = src/userplugins/MediaStatus
 	url = https://github.com/redbaron2k7/MediaStatus.git
